@@ -233,5 +233,4 @@ jupyter notebook DistilBERT/notebook-finetuning.ipynb
 <a id="author"></a>
 ## Author ✍️
 
-- **Name**: Mohamed Younis
-- **Track**: NLP Project
+- **Name**: Mohamed Fathy
